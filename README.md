@@ -23,5 +23,5 @@
 
 
 🛠 技術 (Tech)
-Bash / Python（依你實際使用填寫）
-Fortigate CLI / API
+*.Bash / Python
+*.Fortigate CLI / API
